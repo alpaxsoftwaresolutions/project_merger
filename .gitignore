@@ -5,3 +5,5 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 /node_modules
+/vendor
+.env
