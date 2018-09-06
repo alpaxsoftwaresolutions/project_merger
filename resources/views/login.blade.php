@@ -49,13 +49,13 @@
 						</div>
 					</div>
 
-					<div class="carousel-item">
+					{{-- <div class="carousel-item">
 						<img class="img-responsive carousel-background" src="{{asset('img/carousel/fast1.jpg')}}">
 						<div class="carousel-caption text-white" style="text-align: right;">
 							<h1>Reliable</h1>
 							<h6></h6>
 						</div>
-					</div>
+					</div> --}}
 
 				</div>
 			</div>
@@ -67,9 +67,9 @@
 
 					<form id="login_form" method="POST">
 
-						<h1>Ez Pay Plus</h1>
+						{{-- <h1>Ez Pay Plus</h1> --}}
 
-						<img src="{{asset('img/logo/ezpayplus.svg')}}" style="height: 50px;">
+						<img src="{{asset('img/logo/ezpayplus.svg')}}" style="height: 60px;">
 
 						<hr>
 
