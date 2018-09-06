@@ -38,7 +38,7 @@
 					<div class="carousel-item active">
 						<img class="img-responsive carousel-background" src="{{asset('img/carousel/laptop-3196481_1920.jpg')}}">
 						<div class="carousel-caption text-white" style="text-align: right;">
-							<h1>Time is Money</h1>
+							<h1>Fast</h1>
 							<h6>...</h6>
 						</div>
 					</div>
