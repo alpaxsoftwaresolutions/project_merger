@@ -22,8 +22,6 @@
 
 .carousel-background{
 	height: 100vh;
-	filter: blur(2px);
-	-webkit-filter: rgba(0,0,0,1);
 }
 
 </style>
@@ -36,36 +34,28 @@
 				<div class="carousel-inner">
 
 					<div class="carousel-item active">
-						<img class="img-responsive carousel-background" src="{{asset('img/carousel/laptop-3196481_1920.jpg')}}">
+						<img class="img-responsive carousel-background" src="{{asset('img/carousel/fast.jpg')}}">
 						<div class="carousel-caption text-white" style="text-align: right;">
 							<h1>Fast</h1>
-							<h6>...</h6>
+							<h6></h6>
 						</div>
 					</div>
 
 					<div class="carousel-item">
-						<img class="img-responsive carousel-background" src="{{asset('img/carousel/laptop-3196481_1920.jpg')}}">
+						<img class="img-responsive carousel-background" src="{{asset('img/carousel/fast2.jpg')}}">
 						<div class="carousel-caption text-white" style="text-align: right;">
 							<h1>Convinient</h1>
-							<h6>...</h6>
+							<h6></h6>
 						</div>
 					</div>
 
 					<div class="carousel-item">
-						<img class="img-responsive carousel-background" src="{{asset('img/carousel/laptop-3196481_1920.jpg')}}">
+						<img class="img-responsive carousel-background" src="{{asset('img/carousel/fast1.jpg')}}">
 						<div class="carousel-caption text-white" style="text-align: right;">
 							<h1>Reliable</h1>
-							<h6>...</h6>
+							<h6></h6>
 						</div>
 					</div>
-
-					{{-- <div class="carousel-item">
-						<img class="carousel-background d-block" src="" alt="">
-					</div>
-
-					<div class="carousel-item">
-						<img class="carousel-background d-block" src="" alt="">
-					</div> --}}
 
 				</div>
 			</div>
@@ -77,7 +67,9 @@
 
 					<form id="login_form" method="POST">
 
-						<h2>Ez Pay Plus</h2>
+						<h1>Ez Pay Plus</h1>
+
+						<img src="{{asset('img/logo/ezpayplus.svg')}}" style="height: 50px;">
 
 						<hr>
 
