@@ -7,7 +7,7 @@
 			<ul class="collapse list-unstyled" id="1">
 
 				<li class="">
-					<a href="#"><img src="{{asset('img/icons/speedometer.svg')}}" style="height: 20px; margin-right: 10px;">Dashboard</a>
+					<a href="#"><img src="{{asset('img/nav_icons/speedometer.svg')}}" style="height: 20px; margin-right: 10px;">Dashboard</a>
 				</li>
 			</ul>
 		</li>
