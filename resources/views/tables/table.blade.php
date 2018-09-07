@@ -3,7 +3,9 @@
 
 		<table id="table_template" class="table hover datatable">
 			<thead>
-				<thead>SAmple</thead>
+				<th>SAmple</th>
+				<th>ASDASD</th>
+				<th>qwe</th>
 			</thead>
 		</table>
 

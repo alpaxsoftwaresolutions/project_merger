@@ -24,8 +24,6 @@
 
 			@include('inc.title')
 
-			@yield('content')
-
 		</div>
 
 	</div>
@@ -56,6 +54,9 @@
 		});
 
 	});
+
+	console.log(1);
+</script>
 </script>
 
 </html>
